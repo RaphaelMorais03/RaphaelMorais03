@@ -4,16 +4,12 @@
   Desenvolvedor em formação · Back-end .NET · São Paulo, Brasil
 </p>
 
----
-
 ### Sobre mim
 
 - 🏥 Subgerente em clínica médica/odontológica — 5+ anos em gestão, processos e liderança de equipes
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na UNINOVE (3º semestre)
 - 💡 Gosto de resolver problemas reais com código — meu projeto principal está em produção e é usado por colegas de trabalho
 - 🚀 Buscando minha primeira oportunidade formal em TI
-
----
 
 ### 🛠️ Stack
 
@@ -32,16 +28,12 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
----
-
 ### 📌 Projeto em destaque
 
 **[Portal de Gestão Clínica](https://github.com/RaphaelMorais03/Projeto_Portal_Clinica)**  
 Sistema web interno com 9 módulos: Dashboard · Caixa · Financeiro · Exames · Orçamentos · Contratos · Cronograma · NPS · Admin  
 Stack: HTML5 · CSS3 · JavaScript · Firebase Realtime Database · Firebase Authentication · GitHub Pages  
 Segurança com Firebase Security Rules e App Check — **em uso real pelos colaboradores da empresa onde trabalho.**
-
----
 
 ### 📊 GitHub Stats
 
@@ -50,9 +42,7 @@ Segurança com Firebase Security Rules e App Check — **em uso real pelos colab
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelMorais03&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
 ### 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/raphaelmorais-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelmorais-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raphaelmorais1103@gmail.com)
